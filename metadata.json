@@ -1,0 +1,6 @@
+{
+  "name": "AURA - E-Commerce Recommendation System & Behavioral Lab",
+  "description": "An interactive e-commerce recommendation system and research platform demonstrating data collection pipelines, collaborative filtering, content-based filtering, evaluation benchmarks, and empirical analysis of recommendation algorithms on consumer behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
